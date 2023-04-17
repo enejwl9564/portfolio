@@ -13,15 +13,21 @@
 
 ### 프로젝트 1: [QnA_GPT-3](https://github.com/enejwl9564/QnA_GPT-3)
 
-- 소개: [Chat-GPT-3를 기반으로 질문 응답 사이트]
+- 소개: [Chat-GPT-3를 기반으로 질문 응답 웹사이트]
 - 기술 스택: [Java, Spring, JPA, OpenAPI]
 - 소스 코드: [https://github.com/enejwl9564/QnA_GPT-3]
 
 ### 프로젝트 2: [kakao_WeatherMap](https://github.com/enejwl9564/kakao_WeatherMap)
 
-- 소개: [카카오맵과 Weather API를 사용해서 지도에 마우스를 클릭하면 그 위치에 대한 날씨정보를 보여주는 사이트]
+- 소개: [카카오맵과 Weather API를 사용해서 지도에 마우스를 클릭하면 그 위치에 대한 날씨정보를 보여주는 웹사이트]
 - 기술 스택: [Java, Spring, JPA, OpenAPI]
 - 소스 코드: [https://github.com/enejwl9564/kakao_WeatherMap]
+
+### 프로젝트 3: [weather_todolist](https://github.com/enejwl9564/weather_todolist)
+
+- 소개: [접속위치정보에 따른 자동 날씨알림, 투두리스트를 합친 웹사이트]
+- 기술 스택: [Java, JavaScript, OpenAPI]
+- 소스 코드: [https://github.com/enejwl9564/weather_todolist]
 
 ## 기술 스택
 
