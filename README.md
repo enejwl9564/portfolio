@@ -33,5 +33,4 @@
 ## 연락처
 
 - 이메일: [enejwl5623@gmail.com]
-- LinkedIn: [LinkedIn 프로필 링크, 예: https://www.linkedin.com/in/enejwl5623/]
 - GitHub: [GitHub 프로필 링크, 예: https://github.com/enejwl9564]
