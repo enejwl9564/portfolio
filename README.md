@@ -11,24 +11,22 @@
 
 ## 프로젝트
 
-### 프로젝트 1: [QnA_GPT-3]
+### 프로젝트 1: [QnA_GPT-3](https://github.com/enejwl9564/QnA_GPT-3)
 
-- 소개: [Chat-GPT-3를 기반으로 ]
-- 기술 스택: [사용된 기술과 도구, 예: Python, Django, React]
-- 소스 코드: [프로젝트 깃허브 링크, 예: https://github.com/yourusername/project1]
-- 데모: [데모 사이트 링크, 예: https://project1demo.com]
+- 소개: [Chat-GPT-3를 기반으로 질문 응답 사이트]
+- 기술 스택: [Java, Spring, JPA, OpenAPI]
+- 소스 코드: [https://github.com/enejwl9564/QnA_GPT-3]
 
-### 프로젝트 2: [프로젝트 이름]
+### 프로젝트 2: [kakao_WeatherMap](https://github.com/enejwl9564/kakao_WeatherMap)
 
-- 소개: [프로젝트에 대한 짧은 설명]
-- 기술 스택: [사용된 기술과 도구, 예: Java, Spring Boot, MySQL]
-- 소스 코드: [프로젝트 깃허브 링크, 예: https://github.com/yourusername/project2]
-- 데모: [데모 사이트 링크, 예: https://project2demo.com]
+- 소개: [카카오맵과 Weather API를 사용해서 지도에 마우스를 클릭하면 그 위치에 대한 날씨정보를 보여주는 사이트]
+- 기술 스택: [Java, Spring, JPA, OpenAPI]
+- 소스 코드: [https://github.com/enejwl9564/kakao_WeatherMap]
 
 ## 기술 스택
 
-- 프로그래밍 언어: [Java, JavaScript]
-- 프레임워크 및 라이브러리: [숙련된 프레임워크 및 라이브러리, 예: Spring, JPA]
+- 프로그래밍 언어: [Java]
+- 프레임워크 및 라이브러리: [Spring, JPA]
 - 데이터베이스: [MySQL, Orcle]
 - 버전 관리: [Git]
 
